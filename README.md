@@ -1,0 +1,2 @@
+# k-colour-images
+The code in this repository allows for the creation of k-colour images, where k is a small number specified by the user, from an image containing many hundreds or thousands of colours. This is done by utilising the k-means algorithm to group the pixel colours used in the original images into k clusters. The colours used in the output image are determined by taking the mean RGB values of each cluster of pixels.
